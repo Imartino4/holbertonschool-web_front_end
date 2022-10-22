@@ -41,16 +41,16 @@ a{
     text-decoration: none; /*Saco el formato por defecto (subrayado entre otros)*/
     color: var(--text-color);
 }
-
-a:visited{
+/*Only anchor elements with links (a:link)*/
+a:link:visited{
     font-style: italic;
 }
 
-a:hover{
+a:link:hover{
     text-decoration: underline;
 }
 
-a:active{
+a:link:active{
     background-color: var(--color-light-grey);
 }
 
