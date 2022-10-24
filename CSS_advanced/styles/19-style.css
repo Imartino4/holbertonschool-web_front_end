@@ -186,3 +186,9 @@ ul.row{/*Todos los elementos ul con clase row*/
 .footer ul{/*Todos los ul dentro de footer*/
     text-align: right;
 }
+
+.footer-copyright{
+    margin: 0;
+    font-size: var(--font-size-small);
+    color: var(--text-color);
+}
