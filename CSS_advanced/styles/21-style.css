@@ -195,7 +195,7 @@ ul.row{/*Todos los elementos ul con clase row*/
     clear: both;/*do not allow any floating elements on either side*/
 }
 
-a[class^='col-']{/*All classes starting wit col-*/
+[class^='col-']{/*All classes starting wit col-*/
     float: left;
     padding: 0.5rem;
 }
