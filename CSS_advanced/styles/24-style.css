@@ -218,7 +218,7 @@ ul.row{/*Todos los elementos ul con clase row*/
     fill: var(--text-color);
 }
 
-.card-title .card-service{
+.card-services .card-title{
     margin: none;
 }
 
