@@ -195,6 +195,6 @@ ul.row{/*Todos los elementos ul con clase row*/
 
 .row::after{
     display: table;
-    content: none;
+    content: "";/*no content*/
     clear: both;/*do not allow any floating elements on either side*/
 }
