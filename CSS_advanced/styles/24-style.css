@@ -218,11 +218,11 @@ ul.row{/*Todos los elementos ul con clase row*/
     fill: var(--text-color);
 }
 
-.card-service .card-title{
+.card-title .card-service{
     margin: none;
 }
 
-.card-service a{
+.card-services a{
     display: block;
     padding: 2rem;
     background-color: var(--color-light-grey);
