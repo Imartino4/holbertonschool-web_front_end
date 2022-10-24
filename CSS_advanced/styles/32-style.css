@@ -113,6 +113,8 @@ a:active{
     color: var(--button-hover-color);
     text-decoration: var(--button-hover-text-decoration);
     background-color: var(--button-hover-background);
+
+    
 }
 
 h1, h2, h3, h4, h5, h6{
