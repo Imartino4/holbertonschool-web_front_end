@@ -219,7 +219,7 @@ ul.row{/*Todos los elementos ul con clase row*/
 }
 
 .card-services .card-title{
-    margin: none;
+    margin: 0;
 }
 
 .card-services a{
