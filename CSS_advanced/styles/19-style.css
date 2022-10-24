@@ -165,7 +165,7 @@ h1, h2, h3, h4, h5, h6{
     color: var(--nav-item-link-hover);
 }
 
-.row{
+ul.row{/*Todos los elementos ul con clase row*/
     margin: 0;
     padding: 0;
     list-style: none;
@@ -183,6 +183,6 @@ h1, h2, h3, h4, h5, h6{
     padding: 0.5rem;
 }
 
-.footer .ul{
+.footer ul{/*Todos los ul dentro de footer*/
     text-align: right;
 }
